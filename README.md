@@ -1,8 +1,8 @@
 # TMDetector-sample-data
 We made this dataset publicly available solely for non-profit and research purposes. For any other usage, please contact bahar.kamalian@gmail.com
 
-Citation request
-If you use the dataset, please cite at least one of these aricles:
+# Citation request
+If you use the dataset, please cite at least one of these articles:
 
 [1] Kamalian, M., & Ferreira, P. (2022, May). FogTMDetector-Fog Based Transport Mode Detection using Smartphones. In 2022 IEEE 6th International Conference on Fog and Edge Computing (ICFEC) (pp. 9-16). IEEE.
 
