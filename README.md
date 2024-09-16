@@ -9,7 +9,7 @@ If you use the dataset, please cite at least one of these articles:
 [2] FOGFLEET: Fog-Level Federated Transfer Learning for Adaptive Transport Mode Detection, publishing soon on IC2E conference, 2024. 
 
 # TMDetector Overview
-TMDetector data is a versatile annotated dataset of transport modes collected by mobile users. This dataset is gathered using the TMDetector application. TMDetector consists of a collection and a prediction module. TMDetector collects this ground truth data from three different sensors accelerometer, magnetometer, and GPS with various sampling rates. 
+TMDetector data is a versatile annotated dataset of transport modes collected by mobile users. This dataset is gathered using the TMDetector application. TMDetector consists of a collection, feature extraction, and prediction modules. TMDetector collects this ground truth data from three different sensors accelerometer, magnetometer, and GPS with various sampling rates. Note that this data is not processed and it requires applying pre-processing techniques such as filtering, smoothing, or scaling.
 
 Data collection is carried out across four distinct cities: Oslo, Rome, Stockholm, and Tehran utilizing TMDetector to capture a wide range of transport modes, road conditions, and related patterns across the urban areas of these cities. 
 
