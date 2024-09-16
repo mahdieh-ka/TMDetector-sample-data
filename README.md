@@ -4,7 +4,7 @@ We made this dataset publicly available solely for non-profit and research purpo
 # Citation request
 If you use the dataset, please cite at least one of these articles:
 
-[1] Kamalian, M., & Ferreira, P. (2022, May). FogTMDetector-Fog Based Transport Mode Detection using Smartphones. In 2022 IEEE 6th International Conference on Fog and Edge Computing (ICFEC) (pp. 9-16). IEEE.
+[1] FogTMDetector-Fog Based Transport Mode Detection using Smartphones. In 2022 IEEE 6th International Conference on Fog and Edge Computing (ICFEC) (pp. 9-16). IEEE.
 
 [2] FOGFLEET: Fog-Level Federated Transfer Learning for Adaptive Transport Mode Detection, publishing soon on IC2E conference, 2024. 
 
